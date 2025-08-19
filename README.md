@@ -1,4 +1,4 @@
-Rock Paper Scissors 🎮
+<h1>Rock Paper Scissors 🎮</h1>
 
 A lightweight Rock Paper Scissors game built with React and
 Tailwind CSS.
