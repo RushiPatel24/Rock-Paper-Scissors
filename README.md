@@ -92,3 +92,7 @@ This project is licensed under the MIT License.
 👨‍💻 Author
 
 Developed by [Rushi Patel](https://github.com/RushiPatel24)
+
+
+
+hello Rushi
